@@ -19,7 +19,7 @@ subtitle = "Sharing what I find beautiful around the globe."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/les_roses_ppic.jpeg"
+src = "img/les_roses_ppic.jpg"
 
 [article]
 headingAnchor = false
