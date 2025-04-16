@@ -1,3 +1,12 @@
 /*
     You can add your own custom styles here.
 */
+
+/* Reduce the size of the left sidebar */
+.left-sidebar {
+    width: 200px; /* Adjust the width as needed */
+}
+
+.main-content {
+    margin-left: 200px; /* Match the sidebar width */
+}
