@@ -24,7 +24,7 @@ src = "img/les_roses_ppic.jpg"
 [article]
 headingAnchor = false
 math = false
-readingTime = true
+readingTime = false
 
 [article.license]
 enabled = true
